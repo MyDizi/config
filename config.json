@@ -1,9 +1,5 @@
 {
-  "catalogUrl": "https://turkrutv.tv/catalog",
-  "newUrl": "https://turkrutv.tv/new",
-  "episodesUrl": "https://turkrutv.tv/episodes",
-  "soonUrl": "https://turkrutv.tv/soon",
-  "vkUrl": "https://vk.com/yourpage",
-  "okUrl": "https://ok.ru/yourpage",
-  "telegramUrl": "https://t.me/yourchannel"
+  "domain": "go.mydizi.online",
+  "telegramChannel": "https://t.me/mydizi_channel",
+  "telegramSupport": "https://t.me/mydizi_support"
 }
