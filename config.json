@@ -1,5 +1,6 @@
 {
   "domain": "go.mydizi.online",
+  "viewDomain": "app.mydizi.online",
   "backupDomain": "v3.uteta.space",
   "telegramChannel": "https://t.me/+AjB6kw-_3sdmNjg6",
   "telegramSupport": "https://t.me/MyDiziSuppBot",
